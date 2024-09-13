@@ -1,0 +1,31 @@
+/* Simple CSS Example */
+
+/* Styling the body */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling a container */
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling headings */
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+/* Styling paragraphs */
+p {
+    color: #666;
+    line-height: 1.6;
+}
